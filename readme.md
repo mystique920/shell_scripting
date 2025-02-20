@@ -59,6 +59,10 @@ The course is divided into four weeks, each covering specific topics and buildin
 *   Text editor (VS Code, Sublime Text, etc.)
 *   Online shell scripting documentation and tutorials
 
+## Shell Script Syntax
+
+For a detailed explanation of the syntax and structure of shell scripts, please refer to the `shellscript_syntax.md` file. This file covers topics such as the shebang, comments, commands, variables, control flow, functions, and input/output.
+
 ## Assessment
 
 *   Weekly exercises
