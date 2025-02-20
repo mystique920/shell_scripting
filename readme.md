@@ -53,10 +53,6 @@ The course is divided into four weeks, each covering specific topics and buildin
 *   Creating simple command-line tools (comparison with Python's `argparse` module)
 *   Regular expressions (comparison with Python's `re` module)
 
-## Python Practice Files
-
-This course includes Python practice files that demonstrate how to accomplish similar tasks in Python, providing a bridge between shell scripting and Python programming. These files are located in the `python_practice` directory.
-
 ## Resources
 
 *   macOS Terminal
