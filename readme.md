@@ -14,7 +14,7 @@ This course provides a comprehensive introduction to shell scripting on macOS, c
 ## Installation and Setup
 
 1. Clone or download the course repository.
-2. Ensure you have a working shell environment (typically Bash on macOS).
+2. Ensure you have a working shell environment. While macOS now defaults to zsh, this course uses bash, which is still widely used and supported on macOS.
 3. Open the repository in your favorite text editor.
 
 ## Running Shell Scripts
@@ -23,7 +23,7 @@ This course provides a comprehensive introduction to shell scripting on macOS, c
 2.  **Navigate to Script Directory:** Use the `cd` command to navigate to the directory where your shell script is located. For example: `cd /path/to/your/script/directory`
 3.  **Make Script Executable:** Before running a shell script, you need to make it executable. Use the `chmod` command: `chmod +x your_script_name.sh`
 4.  **Execute the Script:**
-    *   To execute the script, type `./your_script_name.sh` and press Enter.
+    *   To execute the script, type `./your_script_name.sh` and press Enter. Note that `./` refers to the current directory, so ensure your terminal is in the same directory as the script.
     *   Alternatively, you can run the script using `bash your_script_name.sh`
 
 ## Learning Objectives
@@ -36,7 +36,7 @@ By the end of this course, you will be able to:
 
 ## Course Structure
 
-The course is divided into four weeks, each covering specific topics and building upon the knowledge gained in previous weeks.
+The course is divided into four weeks, each covering specific topics and building upon the knowledge gained in previous weeks. The estimated time commitment is 5-10 hours per week.
 
 ### Week 1: Introduction to Shell Scripting
 
@@ -86,14 +86,16 @@ The course is divided into four weeks, each covering specific topics and buildin
 ## Resources
 
 - macOS Terminal documentation: [Apple Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac)
-- Online shell scripting tutorials and documentation.
+- Online shell scripting tutorials and documentation:
+    - [Bash Beginners Guide](https://www.gnu.org/software/bash/manual/html_node/Bash-Beginner_0027s-Guide.html)
+    - [Advanced Bash-Scripting Guide](https://www.tldp.org/LDP/abs/html/)
 - Community forums and discussion groups.
 - For a detailed explanation of shell script syntax, refer to the `shellscript_syntax.md` file.
 
 ## Assessment
 
 - **Weekly Exercises:** Practice assignments provided at the end of each week.
-- **Final Project:** Automate a common task using shell scripting. Detailed project guidelines including requirements, evaluation criteria, and deadlines will be provided.
+- **Final Project:** Automate a common task using shell scripting. For example, you could create a script to automate file backups or monitor system resources. Detailed project guidelines including requirements, evaluation criteria, and deadlines will be provided.
 
 ## Support / Contact
 
