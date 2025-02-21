@@ -16,7 +16,15 @@ This course provides a comprehensive introduction to shell scripting on macOS, c
 1. Clone or download the course repository.
 2. Ensure you have a working shell environment (typically Bash on macOS).
 3. Open the repository in your favorite text editor.
-4. Run shell scripts directly from the Terminal to practice commands.
+
+## Running Shell Scripts
+
+1.  **Open Terminal:** Launch the Terminal application on your macOS system.
+2.  **Navigate to Script Directory:** Use the `cd` command to navigate to the directory where your shell script is located. For example: `cd /path/to/your/script/directory`
+3.  **Make Script Executable:** Before running a shell script, you need to make it executable. Use the `chmod` command: `chmod +x your_script_name.sh`
+4.  **Execute the Script:**
+    *   To execute the script, type `./your_script_name.sh` and press Enter.
+    *   Alternatively, you can run the script using `bash your_script_name.sh`
 
 ## Learning Objectives
 
