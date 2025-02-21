@@ -2,7 +2,7 @@
 
 ## Overview
 
-This course provides a comprehensive introduction to shell scripting on macOS, covering the fundamental concepts and skills needed to automate tasks and manage your system effectively. The course is designed for beginners with no prior experience in shell scripting or programming.
+This course provides a comprehensive introduction to shell scripting on macOS, covering the fundamental concepts and skills needed to automate tasks and manage your system effectively. The course is designed for beginners with no prior experience in shell scripting or programming. If you are on Linux the commands will be the same.
 
 ## Prerequisites
 
@@ -99,10 +99,6 @@ The course is divided into four weeks, each covering specific topics and buildin
 
 ## Support / Contact
 
-If you have any questions or need assistance, please reach out via:
-- Email: instructor@example.com
-- Discussion forum: [Course Forum](https://example.com/forum)
+If you have any questions or need assistance, please ask your favorite AI model.
 
 ---
-
-*Visual aids, diagrams, and additional resources will be provided throughout the course to enhance learning and practical understanding.*
